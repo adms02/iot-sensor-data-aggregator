@@ -1,0 +1,9 @@
+/node_modules
+/.env
+/src/db/knexfile.js
+# /src/db/seeds
+# /coverage
+# /__tests__/integration
+/build
+
+

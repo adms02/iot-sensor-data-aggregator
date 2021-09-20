@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1632178924716" clover="3.2.0">
+  <project timestamp="1632178924716" name="All files">
+    <metrics statements="57" coveredstatements="49" conditionals="16" coveredconditionals="10" methods="21" coveredmethods="19" elements="94" coveredelements="78" complexity="0" loc="57" ncloc="57" packages="4" files="6" classes="6"/>
+    <package name="db">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="knexfile.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\db\knexfile.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="loaders">
+      <metrics statements="10" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="databaseLoader.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\loaders\databaseLoader.ts">
+        <metrics statements="10" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="41" coveredstatements="39" conditionals="16" coveredconditionals="10" methods="18" coveredmethods="18"/>
+      <file name="alertsModel.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\models\alertsModel.ts">
+        <metrics statements="17" coveredstatements="16" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="locationModel.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\models\locationModel.ts">
+        <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="sensorModel.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\models\sensorModel.ts">
+        <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="8" methods="8" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="4" falsecount="2"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="1" type="cond" truecount="4" falsecount="2"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="errorHandler.ts" path="D:\vscode\interview-tasks\converge-interview-task\src\utils\errorHandler.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
