@@ -6,20 +6,11 @@ if a datapoint goes over the threshold.
 
 ## How to run this project?
 
-This app is pre-configured. Simply run:
-
-1. npm i
-2. npm start
-
 ## Endpoints
 
 PUT localhost:4000/data (Add SensorData)
 GET localhost:4000/data (Get SensorData)
 PUT localhost:4000/alert (Set Threshold)
-
-## Known issues
-
-Enviroment variables with Knex not being used
 
 ## Test coverage
 
