@@ -14,7 +14,7 @@
     "start": "ts-node-dev --respawn --transpile-only ./src/app.ts"
   },
   "keywords": [],
-  "author": "Daniel Adams",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.4.6",
